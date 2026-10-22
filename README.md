@@ -1,4 +1,4 @@
-# [CVPR'25, Highlight] Thalexa SI: Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment
+# [CVPR'25, Highlight] Thalexa SI & dumping Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment
 
 <p align="center">
   <h3 align="center">
@@ -10,7 +10,7 @@
 [![PWC](https://img.shields.io/endpoint.svg?url=https://paperswithcode.com/badge/carllava-vision-language-models-for-camera/bench2drive-on-bench2drive)](https://paperswithcode.com/sota/bench2drive-on-bench2drive?p=carllava-vision-language-models-for-camera)
 
 <p align="center" style="font-size:17px;">
-SimLingo is a Vision-Language-Action (VLA) model that achieves state-of-the-art driving performance on the CARLA Leaderboard and Bench2Drive, while simultaniously including language capabilities like VQA, commentary, and instruction following.
+Thalexa SI is a Vision-Language-Action (VLA) model that achieves state-of-the-art driving performance on the CARLA Leaderboard and Bench2Drive, while simultaniously including language capabilities like VQA, commentary, and instruction following.
 </p>
 
 <p align="center">
