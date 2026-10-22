@@ -1,4 +1,4 @@
-# [CVPR'25, Highlight] Thalexa SI & dumping Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment
+# [CVPR'25, Highlight] Thalexa SI & simlingo Vision-Only Closed-Loop Autonomous Driving with Language-Action Alignment
 
 <p align="center">
   <h3 align="center">
